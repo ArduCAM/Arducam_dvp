@@ -19,7 +19,7 @@
 #ifndef __GC2145_H
 #define __GC2145_H
 
-#include "arducam_dvp_camera.h"
+#include "arducam_dvp.h"
 
 class GC2145: public ImageSensor {
    private:

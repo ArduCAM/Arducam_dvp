@@ -17,7 +17,7 @@
  * Camera driver.
  */
 #include "Arduino.h"
-#include "arducam_dvp_camera.h"
+#include "arducam_dvp.h"
 #include "Wire.h"
 #include "stm32h7xx_hal_dcmi.h"
 

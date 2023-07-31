@@ -19,7 +19,7 @@
 #ifndef __HIMAX_H
 #define __HIMAX_H
 
-#include "arducam_dvp_camera.h"
+#include "arducam_dvp.h"
 #include "drivers/InterruptIn.h"
 
 class HM01B0: public ImageSensor {

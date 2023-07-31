@@ -640,7 +640,7 @@ class Camera {
 
 };
 
-#endif // __ARDUCAM_DVP_CAMERA_H
+#endif // __arducam_dvp_H
 
 /// The I2C bus used to communicate with the camera
 extern arduino::MbedI2C CameraWire;

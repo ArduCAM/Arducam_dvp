@@ -19,7 +19,7 @@
 #ifndef __OV767X_H
 #define __OV767X_H
 
-#include "arducam_dvp_camera.h"
+#include "arducam_dvp.h"
 
 
 #ifndef OMV_OV7670_CLKRC

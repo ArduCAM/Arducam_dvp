@@ -1,4 +1,4 @@
-#include "arducam_dvp_camera.h"
+#include "arducam_dvp.h"
 
 #define ARDUCAM_CAMERA_HM01B0
 
@@ -48,7 +48,7 @@ void setup()
         blinkLED();
     }
     blinkLED(5);
-    Serial.begin(115200);
+    Serial.begin(921600);
 }
 
 void loop()
